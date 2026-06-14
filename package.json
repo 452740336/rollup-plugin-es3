@@ -4,6 +4,7 @@
   "description": "Make rollup compatible with ES3, remove Object.defineProperty of __esModule part",
   "main": "dist/rollup-plugin-es3.cjs.js",
   "jsnext:main": "dist/rollup-plugin-es3.es.js",
+  "types": "dist/rollup-plugin-es3.d.ts",
   "files": [
     "dist"
   ],
