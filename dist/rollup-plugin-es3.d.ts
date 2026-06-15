@@ -1,6 +1,6 @@
 declare namespace es3 {
   interface Options {
-    remove?: Array<"defineProperty" | "freeze" | string>;
+    remove?: Array<"defineProperty" | "freeze">;
     sourceMap?: boolean;
     sourcemap?: boolean;
   }
